@@ -1,0 +1,15 @@
+/Users/semenpancenko/Desktop/Seminar_1/example_3/bin/Debug/net7.0/example_3
+/Users/semenpancenko/Desktop/Seminar_1/example_3/bin/Debug/net7.0/example_3.deps.json
+/Users/semenpancenko/Desktop/Seminar_1/example_3/bin/Debug/net7.0/example_3.runtimeconfig.json
+/Users/semenpancenko/Desktop/Seminar_1/example_3/bin/Debug/net7.0/example_3.dll
+/Users/semenpancenko/Desktop/Seminar_1/example_3/bin/Debug/net7.0/example_3.pdb
+/Users/semenpancenko/Desktop/Seminar_1/example_3/obj/Debug/net7.0/example_3.csproj.AssemblyReference.cache
+/Users/semenpancenko/Desktop/Seminar_1/example_3/obj/Debug/net7.0/example_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semenpancenko/Desktop/Seminar_1/example_3/obj/Debug/net7.0/example_3.AssemblyInfoInputs.cache
+/Users/semenpancenko/Desktop/Seminar_1/example_3/obj/Debug/net7.0/example_3.AssemblyInfo.cs
+/Users/semenpancenko/Desktop/Seminar_1/example_3/obj/Debug/net7.0/example_3.csproj.CoreCompileInputs.cache
+/Users/semenpancenko/Desktop/Seminar_1/example_3/obj/Debug/net7.0/example_3.dll
+/Users/semenpancenko/Desktop/Seminar_1/example_3/obj/Debug/net7.0/refint/example_3.dll
+/Users/semenpancenko/Desktop/Seminar_1/example_3/obj/Debug/net7.0/example_3.pdb
+/Users/semenpancenko/Desktop/Seminar_1/example_3/obj/Debug/net7.0/example_3.genruntimeconfig.cache
+/Users/semenpancenko/Desktop/Seminar_1/example_3/obj/Debug/net7.0/ref/example_3.dll
